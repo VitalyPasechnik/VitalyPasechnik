@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am junior front-end developer
 
 <!--
 **VitalyPasechnik/VitalyPasechnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
